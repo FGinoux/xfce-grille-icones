@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Grille des icônes (bureau)
+Comment=Régler la taille et l'espacement des icônes du bureau XFCE
+Exec=bash -c "python3 \"$HOME/.local/bin/xfce-grille-icones.py\""
+Icon=preferences-desktop-wallpaper
+Categories=Settings;DesktopSettings;
+Terminal=false
+StartupNotify=false
