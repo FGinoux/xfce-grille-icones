@@ -43,7 +43,7 @@ automatique de `xfdesktop` en option).
 ## Installation
 
 ```bash
-git clone https://github.com/VOTRE-COMPTE/xfce-grille-icones.git
+git clone https://github.com/FGinoux/xfce-grille-icones.git
 cd xfce-grille-icones
 ./install.sh
 ```
