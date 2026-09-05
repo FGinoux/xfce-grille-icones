@@ -1,10 +1,11 @@
 # Grille des icônes (bureau) — utilitaire XFCE
 
+This is a small graphical utility for Xfce that allows you to easily adjust the desktop grid layout and icon size without editing files, while also making it easy to revert to the original settings.
+
 Petit utilitaire graphique (GTK3) pour régler la **taille**, l'**espacement**
 et la **marge** de la grille d'icônes du bureau XFCE (`xfdesktop`), sans
 jamais avoir besoin d'ouvrir un terminal ni d'éditer `gtk.css` à la main.
 
-This is a small graphical utility for Xfce that allows you to easily adjust the desktop grid layout and icon size without editing files, while also making it easy to revert to the original settings.
 
 ![XFCE](https://img.shields.io/badge/desktop-XFCE-1e9c4d)
 ![Python](https://img.shields.io/badge/python-3-blue)
