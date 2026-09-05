@@ -23,9 +23,7 @@ Cet utilitaire regroupe ces réglages dans une seule fenêtre avec des
 curseurs, et applique les changements immédiatement (avec redémarrage
 automatique de `xfdesktop` en option).
 
-## Capture d'écran
-
-*(à ajouter — voir la section [Contribuer](#contribuer))*
+![Capture d'écran] /Capture d’écran_2026-09-05_19-23-19.png
 
 ## Fonctionnalités
 
