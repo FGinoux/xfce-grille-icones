@@ -23,7 +23,7 @@ Cet utilitaire regroupe ces réglages dans une seule fenêtre avec des
 curseurs, et applique les changements immédiatement (avec redémarrage
 automatique de `xfdesktop` en option).
 
-![Capture d'écran] ([/Capture d’écran_2026-09-05_19-23-19.png](https://github.com/FGinoux/xfce-grille-icones/blob/main/Capture%20d%E2%80%99%C3%A9cran_2026-09-05_19-23-19.png?raw=true))
+![Capture d’écran](https://github.com/FGinoux/xfce-grille-icones/blob/main/Capture%20d%E2%80%99%C3%A9cran_2026-09-05_19-23-19.png?raw=true)
 
 ## Fonctionnalités
 
